@@ -1,2 +1,2 @@
 # lessons
-programming lessons
+lessons in C language.
