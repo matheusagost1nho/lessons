@@ -1,2 +1,2 @@
 # lessons
-lessons in C language.
+The lessons were generated in C.
