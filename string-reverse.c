@@ -20,5 +20,5 @@ main() {
 
        strcpy(string, string2);
        printf("\n\nThe word or phrase in reverse is:\n%s\n\n",string);
-system("pause");
+       system("pause");
 }
