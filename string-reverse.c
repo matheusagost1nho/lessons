@@ -16,7 +16,7 @@ main() {
        b--;     
        }
 
-       string2[a]='\0';
+       string2[a] = '\0';
 
        strcpy(string, string2);
        printf("\n\nThe word or phrase in reverse is:\n%s\n\n",string);
